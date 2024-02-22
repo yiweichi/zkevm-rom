@@ -1,6 +1,6 @@
 {
   "name": "@0xpolygonhermez/zkevm-rom",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "zkROM source code",
   "main": "index.js",
   "scripts": {
@@ -45,7 +45,7 @@
   "devDependencies": {
     "@0xpolygonhermez/zkevm-commonjs": "github:0xPolygonHermez/zkevm-commonjs#v4.0.0-fork.7",
     "@0xpolygonhermez/zkevm-proverjs": "github:0xPolygonHermez/zkevm-proverjs#feature/modular-arith",
-    "@0xpolygonhermez/zkevm-testvectors": "github:0xPolygonHermez/zkevm-testvectors#v4.0.0-fork.7",
+    "@0xpolygonhermez/zkevm-testvectors": "github:0xPolygonHermez/zkevm-testvectors#feature/update-forkid-8",
     "chai": "^4.3.6",
     "chalk": "^3.0.0",
     "eslint": "^8.25.0",
